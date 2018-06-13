@@ -1,0 +1,3 @@
+import Deux_fonction_enregistrement_associee_second_fichier_a_lancer
+
+Deux_fonction_enregistrement_associee_second_fichier_a_lancer.enregistrement_database(2)
